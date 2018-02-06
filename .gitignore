@@ -1,0 +1,11 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+
+#R related files that don't need version control
+pcaCars.Rproj
+.AppleDB
+Network Trash Folder
+Temporary Items
+.apdisk
